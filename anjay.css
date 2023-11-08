@@ -1,0 +1,14 @@
+body{
+    background-color: black;
+}
+ul{
+    display: flex;
+    gap: 50px;
+    width: 100%;
+    justify-content: center;
+    height: 30px;
+    align-items: center;
+}
+ul li a{
+    color: gold;
+}
